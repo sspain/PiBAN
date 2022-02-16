@@ -1,3 +1,4 @@
+#!/bin/bash
 rm /usr/local/bin/nuke.sh &>/dev/null
 rm /usr/local/bin/usbmount.sh &>/dev/null
 rm /etc/udev/rules.d/usbmount.rules &>/dev/null
